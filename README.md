@@ -59,3 +59,16 @@ You can reach me on Social Media!
 [6]: http://www.github.com/carlsednaoui
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+
+Languages and tools
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegollopis)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegollopis)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegollopis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
