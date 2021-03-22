@@ -1,16 +1,18 @@
-### Diego Llopis :man:
+## Diego Llopis :man:
 
-##### Mechanical Engineer 🚙  - Computer Scientist 💻, - Differential and Integral Calculus Teacher :man_teacher: - Data Scientist wannabe 🚀
+#### Mechanical Engineer 🚙  - Computer Scientist 💻, - Differential and Integral Calculus Teacher :man_teacher: - Data Scientist wannabe 🚀
 
-- 🔭 I’m currently working on to become an Data Scientist
-- 🌱 I’m currently learning a lot of things related to Data Science and Machine Learning (Python, Pandas, Numpy, TensorFlow, and the list goes on...)
-- 👯 I’m looking to collaborate on data science and machine learning open source projects
-- 😄 Pronouns: ... He/Him
-- ⚡ Hobbies: Read a good book and learn new stuff
+##### - 🔭. I’m currently working on to become an Data Scientist
+##### - 🌱  I’m currently learning a lot of things related to Data Science and Machine Learning (Python, Pandas, Numpy, TensorFlow, and the list goes on...)
+##### - 👯  I’m looking to collaborate on data science and machine learning open source projects
+##### - 😄  Pronouns: ... He/Him
+##### - :racing_car:    Fun facts: I love formula 1 (btw, Drive to Survive 3 is awesome!)
+##### - ⚡ Hobbies: Read a good book and learn new stuff
 
-Contact me
+## Contact me
 
-Languages and tools
+
+## Languages and tools
 
 [<code>
 <img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
@@ -61,8 +63,6 @@ Languages and tools
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegollopis)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegollopis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 
 
