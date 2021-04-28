@@ -1,12 +1,12 @@
 ## Diego Llopis :man:
 
-#### Mechanical Engineer 🚙  - Computer Scientist 💻, - Differential and Integral Calculus Teacher :man_teacher: - Data Scientist wannabe 🚀
+#### Mechanical Engineer 🚙  - Computer Scientist 💻, - Differential and Integral Calculus Teacher :man_teacher: - iOS Developer (loading.... )
 
-##### - 🔭. I’m currently working on to become an Data Scientist
-##### - 🌱  I’m currently learning a lot of things related to Data Science and Machine Learning (Python, Pandas, Numpy, TensorFlow, and the list goes on...)
-##### - 👯  I’m looking to collaborate on data science and machine learning open source projects
+##### - 🔭. I’m currently working on to become an iOS Developer
+##### - 🌱  I’m currently learning a lot of things related to Swift, xCode, UIKit, Swift UI and the list goes on....
+##### - 👯  I’m looking to collaborate in open source projects
 ##### - 😄  Pronouns: ... He/Him
-##### - :racing_car:    Fun facts: I love formula 1 (btw, Drive to Survive 3 is awesome!)
+##### - :racing_car:    Fun facts: I know a thing or two about Python (check my repositories for more info)
 ##### - ⚡ Hobbies: Read a good book and learn new stuff
 
 ## Contact
@@ -21,9 +21,6 @@
 <a href="http://www.sqlite.org"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
 
 ## Dev Info
 
