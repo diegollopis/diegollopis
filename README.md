@@ -1,12 +1,12 @@
 ## Diego Llopis :man:
 
-#### Mechanical Engineer 🚙  - Computer Scientist 💻, - Differential and Integral Calculus Teacher :man_teacher: - iOS Developer (loading.... )
+#### Mechanical Engineer 🚙  - Computer Scientist (loading....) 💻, - Differential and Integral Calculus Teacher :man_teacher: - iOS Developer 📱 (loading...)
 
-##### - 🔭. I’m currently working on to become an iOS Developer
+##### - 🔭. I’m currently working and studying to become an iOS Developer
 ##### - 🌱  I’m currently learning a lot of things related to Swift, xCode, UIKit, Swift UI and the list goes on....
-##### - 👯  I’m looking to collaborate in open source projects
+##### - 👯  I’m looking to collaborate in open source projects 
 ##### - 😄  Pronouns: ... He/Him
-##### - :racing_car:    Fun facts: I know a thing or two about Python (check my repositories for more info)
+##### - :racing_car:    Fun facts: I know a thing or two about Python (check my repositories for more info) and I love Formula 1
 ##### - ⚡ Hobbies: Read a good book and learn new stuff
 
 ## Contact
@@ -21,6 +21,8 @@
 <a href="http://www.sqlite.org"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+<a>[![xcode-version](https://img.shields.io/badge/xcode-11%20beta-brightgreen)](https://developer.apple.com/xcode/)</a>
+
 
 ## Dev Info
 
