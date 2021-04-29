@@ -21,8 +21,6 @@
 <a href="http://www.sqlite.org"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-<a><img src=https://img.shields.io/badge/xcode-11%20beta-brightgreen)</a>
-
 
 ## Dev Info
 
