@@ -6,7 +6,7 @@
 ##### - 🌱  I’m currently learning a lot of things related to Swift, xCode, UIKit, Swift UI and the list goes on....
 ##### - 👯  I’m looking to collaborate in open source projects 
 ##### - 😄  Pronouns: ... He/Him
-##### - :racing_car:    Fun facts: I know a thing or two about Python (check my repositories for more info) and I love Formula 1
+##### - :racing_car:    Fun facts: I love Formula 1 and car races in general.
 ##### - ⚡ Hobbies: Read a good book and learn new stuff
 
 ## Contact
