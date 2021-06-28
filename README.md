@@ -14,8 +14,6 @@
 <a href="https://twitter.com/DiegoLlopis2"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://www.instagram.com/llopis.diego/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegollopis&show_icons=true&theme=dracula)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegollopis&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
