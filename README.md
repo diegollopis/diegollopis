@@ -1,12 +1,11 @@
 ## Diego Llopis :man:
 
-#### Mechanical Engineer 🚙  - Mobile Developer - Android(Kotlin) / iOS (Swift) / Flutter (Dart) 📱
+#### Mechanical Engineer 🚙   - Mobile Developer - Android (Kotlin) / iOS (Swift) / Flutter (Dart) 📱
 
-##### - 🔭. Working and studying to become a mobile developer
-##### - 👯  I’m looking to collaborate in open source projects 
-##### - 😄  Pronouns: ... He/Him
-##### - :racing_car:    Fun facts: I love Formula 1
-##### - ⚡ Hobbies: Read a good book and learn new stuff
+##### - Working and studying to become a mobile developer
+##### - Looking to collaborate in open source projects 
+##### - Really passionate about Formula 1
+##### - Hobbies: Read a good book and learn new stuff about technologies!
 
 ## Contact
 
