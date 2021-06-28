@@ -1,6 +1,6 @@
 ## Diego Llopis :man:
 
-#### Mechanical Engineer 🚙   - Mobile Developer - Android (Kotlin) / iOS (Swift) / Flutter (Dart) 📱
+#### Mechanical Engineer 🚙   - Mobile Developer - iOS (Swift) / Flutter (Dart) 📱
 
 ##### - Working and studying to become a mobile developer
 ##### - Looking to collaborate in open source projects 
