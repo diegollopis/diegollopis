@@ -1,6 +1,5 @@
-## Diego Llopis - iOS Developer 📱 
+## Diego Llopis - iOS Developer 📱 - UIKit | SwiftUI 
 
-##### - UIKit | SwiftUI 
 ##### - Computer Scientist (loading...)
 ##### - Mechanical Engineer
 ##### - Looking to collaborate in open source projects 
