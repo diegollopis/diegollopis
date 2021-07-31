@@ -1,7 +1,8 @@
-## Diego Llopis :man:
+## Diego Llopis - iOS Developer
 
-#### - Mechanical Engineer 🚙  - iOS Developer (UIKit | SwiftUI) 📱
+##### - UIKit | SwiftUI 📱
 ##### - Computer Scientist (loading...)
+##### - Mechanical Engineer
 ##### - Looking to collaborate in open source projects 
 ##### - Really passionate about Formula 1
 ##### - Hobbies: Read a good book and learn new stuff about technologies!
