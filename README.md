@@ -1,6 +1,8 @@
 ## Diego Llopis - iOS Developer 📱 - UIKit | SwiftUI 
 
+<p>
 https://camo.githubusercontent.com/42cf4ea24de2413dc2e79ddc2476f9e26a2fbebb841adfe323ceae6098368c98/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53776966742d4641373334333f7374796c653d666f722d7468652d6261646765266c6f676f3d7377696674266c6f676f436f6c6f723d7768697465
+</p>
 
 ##### - Computer Scientist (loading...)
 ##### - Mechanical Engineer
