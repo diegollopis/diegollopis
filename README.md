@@ -1,11 +1,5 @@
 ## :wave: Diego Llopis - iOS Developer 📱 - UIKit | SwiftUI 
 
-##### 💻 Computer Scientist (loading...)
-##### 🚙 Mechanical Engineer
-##### 🕵️‍♂️ Looking to collaborate in open source projects 
-##### 🏎️ Really passionate about Formula 1
-##### 📚 Hobbies: Read a good book and learn new stuff about technologies!
-
 ## Contact
 <a href="https://www.youtube.com/channel/UCXvrQWJgVPB2CLsSeMnq8yg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/diego-llopis36"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
