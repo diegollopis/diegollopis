@@ -1,4 +1,4 @@
-## Diego Llopis - iOS Developer 📱 - UIKit | SwiftUI 
+## :wave: Diego Llopis - iOS Developer 📱 - UIKit | SwiftUI 
 
 ##### - Computer Scientist (loading...)
 ##### - Mechanical Engineer
